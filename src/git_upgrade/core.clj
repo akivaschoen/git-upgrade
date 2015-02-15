@@ -36,4 +36,4 @@
                    (:out result)))]
       (print log-entry)
       (update-log log-entry)))
-  (comment (shutdown-agents)))
+  (shutdown-agents))

@@ -1,4 +1,4 @@
-(defproject git-upgrade "0.5.0"
+(defproject git-upgrade "0.5.0a"
   :description "Searches through a set of directories and updates git repos."
   :url "http://github.com/akivaschoen/git-upgrade"
   :license {:name "Eclipse Public License"
